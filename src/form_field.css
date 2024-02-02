@@ -1,0 +1,14 @@
+label{
+    color:black;
+    font-size: 2rem;
+}
+input{
+    background-color: aqua;
+    color: black;
+    border: 2px solid red;
+    padding: 5px 10px; 
+}
+input[type="button"]:hover{
+    background-color: azure;
+
+}

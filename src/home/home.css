@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 70px;
+}
+h4 {
+  color: blue;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 50px;
+}
+h4 span {
+  color: green;
+  font-size: 40px;
+  margin-left: 20px;
+}
+button {
+  background-color: orangered;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+#button {
+  text-align: center;
+                                                                }
+button {
+  text-align: center;
+}
